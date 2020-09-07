@@ -11,6 +11,6 @@ describe('Math Library', () => {
     it('Product is 18', () => {
         const res = math.multiply(9, 2);
 
-        assert.equal(res, 8);
+        assert.equal(res, 18);
     })
 });
