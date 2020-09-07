@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-unit-test-mocha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anusree-mmlab/jenkins-demo2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anusree-mmlab/jenkins-demo2/issues"
+  },
+  "homepage": "https://github.com/anusree-mmlab/jenkins-demo2#readme",
+  "devDependencies": {
+    "mocha": "^8.1.3"
+  }
+}
